@@ -25,3 +25,4 @@ elif digite_a_operação == "/":
     else:
         print("Erro: seu idiota, vc é burro?.")
         print("git status")
+        print("git status")
