@@ -24,4 +24,4 @@ elif digite_a_operação == "/":
         print("Resultado: ", resultado)
     else:
         print("Erro: seu idiota, vc é burro?.")
-        print("Erro: seu idiota, vc é burro?.")
+        print("git status")
